@@ -10,5 +10,4 @@
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/md-shafiur-rahman-diganta-592a96202/) [Instagram](https://www.instagram.com/shafiur_rahman_diganta/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I never get angry :D 
--->
+- ⚡ Fun fact: ... I never get angry :D
