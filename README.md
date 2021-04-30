@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Soptless(You will find it in the repository)
 - 🌱 I’m currently learning ... (React and JavaScript)
