@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ...  [Instagram](https://www.instagram.com/shafiur_rahman_diganta/)
+- 📫 How to reach me: ...  [Instagram](https://www.instagram.com/shafiur_rahman_diganta/) [LinkedIn](https://www.linkedin.com/in/md-shafiur-rahman-diganta-592a96202/) 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I rarely get mad at people :D
 <!--
