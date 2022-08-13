@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... Soptless(You will find it in the repository)
+- 🔭 I’m currently working on ... Soppiya Themes(You can find it at https://store.soppiya.com/themes)
 - 🌱 I’m currently learning ... (React and JavaScript)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
