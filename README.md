@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...  [Instagram](https://www.instagram.com/shafiur_rahman_diganta/) [LinkedIn](https://www.linkedin.com/in/md-shafiur-rahman-diganta-592a96202/) 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I rarely get mad at people :D
-- [Resume](https://drive.google.com/drive/u/1/folders/1yit4no13xQZLtDrieR_1KszGW8CbR2Qi)
+- My Resume: ... [Resume](https://drive.google.com/drive/u/1/folders/1yit4no13xQZLtDrieR_1KszGW8CbR2Qi)
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta165&theme=blue-green)
 
