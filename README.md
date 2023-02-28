@@ -12,6 +12,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I rarely get mad at people :D
 - My Resume: ... [Resume](https://drive.google.com/drive/u/1/folders/1yit4no13xQZLtDrieR_1KszGW8CbR2Qi)
+- 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta165&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Diganta165&show_icons=true) -->
 <!--
