@@ -14,6 +14,4 @@
 - My Resume: ... [Resume](https://drive.google.com/file/d/1KtXFm0-goPYlp0DH6AmTVhhuL5oBAjwf/view?usp=sharing)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta165&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Diganta165&show_icons=true) -->
-<!--
-[LinkedIn](https://www.linkedin.com/in/md-shafiur-rahman-diganta-592a96202/)  
--->
+<!--[LinkedIn](https://www.linkedin.com/in/md-shafiur-rahman-diganta-592a96202/)  -->
