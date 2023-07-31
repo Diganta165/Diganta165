@@ -1,8 +1,4 @@
 ### Hi I am Diganta. Feel free to hop into my coding world 👋
-
-
-
-
 - 🔭 I’m currently developing ... Soppiya Themes(You can find it at https://store.soppiya.com/themes)
 - 🌱 I’m currently learning ... (React and JavaScript)
 - 👯 I’m looking to collaborate on ...
