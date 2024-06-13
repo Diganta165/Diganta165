@@ -1,5 +1,5 @@
 ### Hi I am Diganta. Feel free to hop into my coding world 👋
-- 🔭 I’m currently developing ...
+- 🔭 I’m currently developing .....
 - I have worked in ... Soppiya Themes(You can find it at https://store.soppiya.com/themes)
 - 🌱 I’m currently learning ... (React and JavaScript)
 - 💬 Ask me about ... Anything 
