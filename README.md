@@ -1,4 +1,4 @@
-[![All Eyes On Bangladesh](https://github.com/alvii147/peoples-banner-for-bangladesh/blob/main/github/banner-green.svg)](https://www.aljazeera.com/program/newsfeed/2024/7/24/bangladeshs-deadly-protests-explained)
+
 
 ### Hi I am Diganta. Feel free to hop into my coding world 👋
 - 🔭 I’m currently developing .....
